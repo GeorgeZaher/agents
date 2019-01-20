@@ -1,0 +1,12 @@
+*
+!*/
+!*.md
+!*.cpp
+!*.hpp
+!*.c
+!*.h
+!*LICENSE
+!Makefile
+!.todo
+!.gitignore
+!.gitsubmodule
