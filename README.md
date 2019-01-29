@@ -14,4 +14,9 @@ or compile all agents all together:
 
 ## Usage
 
+To see your possible agent options use:
+
+    make help
+
+or alternatively use agents' documentation.  
 For each agent, there is a README. Follow them and use agents properly.
